@@ -1,0 +1,2 @@
+# File Uploader for Google Drive
+ Google Drive File Uploader is a Python script designed to simplify the process of uploading files from a given download link to Google Drive. With real-time progress tracking and the ability to preserve the original file names, this script makes it effortless to upload files while providing a seamless experience. Enjoy hassle-free file uploads to your Google Drive with ease.
