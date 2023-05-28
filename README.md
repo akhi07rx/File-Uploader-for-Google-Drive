@@ -31,7 +31,7 @@ This repository contains a Google Colab notebook that allows you to upload files
 1. Open the Google Colab notebook.
 2. Run each cell in the notebook to execute the code.
 3. When prompted, enter the download link of the file you want to upload.
-4. The code will upload the file to a folder named "downloads" in your Google Drive.
+4. The code will upload the file to a folder named "Downloads" in your Google Drive.
 5. The progress bar will display the real-time progress of the file upload.
 
 <br />
