@@ -36,6 +36,49 @@ This repository contains a Google Colab notebook that allows you to upload files
 
 <br />
 
+<hr style="border:2px solid gray">
+
+<br />
+
+
+1. Mount Google Drive by running the following code in Google Colab:
+<br />
+<br />
+
+```python
+from google.colab import drive
+
+drive.mount('/content/drive')
+```
+<br />
+
+2. Run the script and provide the download link when prompted:
+<br />
+<br />
+
+```python
+Enter the download link: [insert download link here]
+```
+
+<br />
+
+3. The script will create a folder named downloads in your Google Drive if it doesn't exist already.
+
+4. The file will be downloaded from the provided URL and saved to the downloads folder.
+
+<br />
+
+Please note that the progress of the download will be displayed using a progress bar provided by the tqdm library.
+
+Once the download is complete, the script will print a success message indicating the name of the downloaded file and the destination folder.
+
+Make sure to replace [insert download link here] with the actual URL from which you want to download the file.
+
+Feel free to modify the destination folder according to your preference by changing the 'destination_folder' variable.
+
+
+<br />
+
 ## Customizing the Destination Folder
 
 By default, the code uploads files to the "downloads" folder in your Google Drive. If you want to upload the files to a different folder, you can modify the `destination_folder` variable in the code to specify the desired folder path.
