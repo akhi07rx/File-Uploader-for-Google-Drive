@@ -20,14 +20,11 @@ This repository contains a Google Colab notebook that allows you to upload files
 
 ## Screenshots
 
-![image](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/assets/89210430/ba434c74-c023-4ca0-9340-a06c1438958a)
+![image](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/assets/89210430/f215a80d-c5ea-4899-81a5-87a0f7174050)
 
-![image](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/assets/89210430/91feb6e7-b153-435d-aa6f-af5c8a4f6407)
+![image](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/assets/89210430/81241900-87c2-4004-ab1e-b131c6aa97f9)
 
-![image](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/assets/89210430/468c0272-5fde-4d21-abe9-7c82d733ca60)
-
-
-![image](https://github.com/akhi07rx/test-repo/assets/89210430/1bac0be8-4de5-4d1d-aded-93c3d00f0c33)
+![image](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/assets/89210430/005edd65-1c32-4bf5-8e1f-0975391ba592)
 
 
 <br />
