@@ -55,7 +55,6 @@ This repository contains a Google Colab notebook that allows you to upload files
 
 1. Mount Google Drive by running the following code in Google Colab:
 <br />
-<br />
 
 ```python
 from google.colab import drive
@@ -65,7 +64,6 @@ drive.mount('/content/drive')
 <br />
 
 2. Run the script and provide the download link when prompted:
-<br />
 <br />
 
 ```python
