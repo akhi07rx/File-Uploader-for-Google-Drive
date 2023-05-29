@@ -72,7 +72,7 @@ Please note that the progress of the download will be displayed using a progress
 
 Once the download is complete, the script will print a success message indicating the name of the downloaded file and the destination folder.
 
-Make sure to replace [insert download link here] with the actual URL from which you want to download the file.
+Make sure to replace ' [insert download link here] ' with the actual URL from which you want to download the file.
 
 Feel free to modify the destination folder according to your preference by changing the 'destination_folder' variable.
 
