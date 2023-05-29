@@ -14,7 +14,6 @@ This repository contains a Google Colab notebook that allows you to upload files
 
 - Option to exit the program: The user can type "exit" to quit the program instead of providing a download link.
 
-- Improved user interface: A line break is added before the "Enter the download link" prompt, creating visual separation between each prompt and making it easier to read.
 
 <br />
 
