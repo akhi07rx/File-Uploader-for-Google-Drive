@@ -2,6 +2,7 @@
 
 This repository contains a Google Colab notebook that allows you to upload files from a given download link to your Google Drive with real-time progress tracking. The code is written in Python and utilizes the `requests` library for file download and the `tqdm` library for progress tracking.
 
+<br />
 
 ## Features
 
@@ -9,6 +10,11 @@ This repository contains a Google Colab notebook that allows you to upload files
 - Real-time progress tracking using a progress bar.
 - Preserve the original file name during the upload process.
 - Automatically create a destination folder if it doesn't already exist.
+- Ability to insert multiple download links: The code now allows the user to enter multiple download links one after the other until they choose to exit the program by typing "exit".
+
+- Option to exit the program: The user can type "exit" to quit the program instead of providing a download link.
+
+- Improved user interface: A line break is added before the "Enter the download link" prompt, creating visual separation between each prompt and making it easier to read.
 
 <br />
 
