@@ -10,9 +10,6 @@ This repository contains a Google Colab notebook that allows you to upload files
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akhi07rx/File-Uploader-for-Google-Drive/blob/main/File_Uploader_for_Google_Drive_V_1_217B.ipynb)
 
-<br />
-
-
 
 <br />
 
