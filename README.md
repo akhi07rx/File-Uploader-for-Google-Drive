@@ -10,8 +10,6 @@
 
 
 
-
-
 # File Uploader for Google Drive V 1.4.18B
 
 This repository contains a Google Colab notebook that allows you to upload files from a given download link to your Google Drive with real-time progress tracking. The code is written in Python and utilizes the `requests` library for file download and the `tqdm` library for progress tracking.
