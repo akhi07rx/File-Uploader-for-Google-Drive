@@ -1,3 +1,9 @@
+
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/blob/main/LICENSE)
+
+
+
 # File Uploader for Google Drive V 1.4.18B
 
 This repository contains a Google Colab notebook that allows you to upload files from a given download link to your Google Drive with real-time progress tracking. The code is written in Python and utilizes the `requests` library for file download and the `tqdm` library for progress tracking.
@@ -5,10 +11,6 @@ This repository contains a Google Colab notebook that allows you to upload files
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akhi07rx/File-Uploader-for-Google-Drive/blob/main/File_Uploader_for_Google_Drive_V_1_217B.ipynb)
 
 <br />
-
-
-
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/blob/main/LICENSE)
 
 
 
