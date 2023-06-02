@@ -6,6 +6,14 @@ This repository contains a Google Colab notebook that allows you to upload files
 
 <br />
 
+
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/akhi07rx/File-Uploader-for-Google-Drive/blob/main/LICENSE)
+
+
+
+<br />
+
 ## Features
 
 - Upload files to Google Drive from a download link.
