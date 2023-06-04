@@ -25,6 +25,10 @@ This repository contains a Google Colab notebook that allows you to upload files
 - Automatically create a destination folder if it doesn't already exist.
 - Ability to insert multiple download links: The code now allows the user to enter multiple download links one after the other until they choose to exit the program by typing "exit".
 
+- Saving the downloaded file to the specified destination folder in your Google Drive.
+
+- Displaying information about the downloaded file such as its name, size, and saved location.
+
 - Option to exit the program: The user can type "exit" to quit the program instead of providing a download link.
 
 
