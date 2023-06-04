@@ -141,6 +141,11 @@ The upload speed is dependent on your internet connection and the server's capac
 
 <br />
 
+## Acknowledgments
+
+This code was developed with help from various online resources, including documentation for Python libraries such as `requests` and `tqdm`. We would like to thank all contributors who have shared their knowledge and expertise with us.
+
+
 ## License
 <br />
 
