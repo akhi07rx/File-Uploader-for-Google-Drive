@@ -115,11 +115,6 @@ destination_folder = '/content/drive/MyDrive/your-folder/'
 ## Code Components
 <br />
 
-The main components of the code are as follows:
-<br />
-<br />
-
-
 - Mounting Google Drive: This step allows the notebook to access your Google Drive and perform file operations.
 
 - Parsing the Download Link: The download link provided by the user is parsed using the urlparse function to extract the file name. This ensures that the file is saved with its original name.
